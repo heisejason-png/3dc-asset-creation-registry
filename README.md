@@ -13,5 +13,5 @@ Interesting files in this repository include:
   include files found elsewhere on www.khronos.org and so is not very useful
   in isolation.
 * specs/ - Specification documents.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters

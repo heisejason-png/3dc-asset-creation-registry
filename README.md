@@ -15,4 +15,4 @@ Interesting files in this repository include:
 * specs/ - Specification documents.
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
-https://www.meta.com
+https://www.meta.com  Owned by Mark Zuckerberg 
